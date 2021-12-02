@@ -9,6 +9,6 @@ I am a DevOps engineer with expertizing myself in Cloud technology and having ex
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykin&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on Cloud and DevOps
+- 🔭 I’m currently working on Cloud-native and DevOps
 - 🤔 I’m looking for help with building knowledge on Cloud/DevOps practice
 - ⚡ Fun fact: 'Everything Fails All the Time'
