@@ -7,7 +7,7 @@
 
 I am a DevOps engineer with expertizing myself in Cloud technology and having exposer in frontend development and UI/UX also love building tech, content and people around community making it AWSome!
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykin&show_icons=true&theme=radical)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaygitops&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on Cloud-native and DevOps
 - 🤔 I’m looking for help with building knowledge on Cloud/DevOps practice
