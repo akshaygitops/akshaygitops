@@ -2,7 +2,7 @@
 
 [![GitHub akshaykin](https://img.shields.io/github/followers/akshaygitops?label=follow&style=social)](https://github.com/akshaygitops)
 [![Linkedin: Akshay Khandelwal](https://img.shields.io/badge/-akshaykhandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshaykin/)](https://www.linkedin.com/in/akshaykin/)
-[![Twitter: Akshay Khandelwal](https://img.shields.io/twitter/follow/AkshaygitOps?style=social)](https://twitter.com/AkshaygitOps)
+[![Twitter: Akshay Khandelwal](https://img.shields.io/twitter/follow/opswithak?style=social)](https://twitter.com/opswithak)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=akshaykin&left_color=gray&right_color=blue)
 
 I am a DevOps engineer with expertizing myself in Cloud technology and having exposer in frontend development and UI/UX also love building tech, content and people around community making it AWSome!
