@@ -11,4 +11,3 @@ I am a DevOps engineer with expertizing myself in Cloud technology and having ex
 
 - 🔭 I’m currently working on Cloud-native and DevOps
 - 🤔 I’m looking for help with building knowledge on Cloud/DevOps practice
-- ⚡ Fun fact: 'Everything Fails All the Time'
